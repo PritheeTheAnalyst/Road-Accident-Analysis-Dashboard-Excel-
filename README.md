@@ -25,3 +25,23 @@ The client needed a Road Accident Dashboard to:
 - Which road types record the highest number of casualties?
 - How are total casualties distributed across different road surface conditions?
 - How do casualties differ by area (Urban vs Rural)?
+
+## Dashboard
+<img width="1833" height="868" alt="Screenshot (467)" src="https://github.com/user-attachments/assets/79a70ccf-dbfc-462e-af38-7383f50d9c2a" />
+
+## Tools & Techniques Used
+✔️Data cleaning and preparation
+✔️ Pivot Tables & Pivot Charts
+✔️ Advanced formulas and calculated fields
+✔️ KPI cards and percentage metrics
+✔️ Interactive slicers and timelines
+✔️ Dashboard layout and visual storytelling
+✔️ Year-over-Year (YoY) trend analysis
+✔️ Conditional formatting for insights
+
+## Project Insights
+- The majority of casualties are slight injuries, but serious and fatal cases still represent significant risk
+- Certain vehicle types contribute disproportionately to total casualties
+- Single carriageways record the highest number of casualties
+- Most accidents occur on dry road surfaces, not extreme conditions
+- Casualties are higher in urban areas, especially during daylight hours
